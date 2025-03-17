@@ -1,6 +1,6 @@
 # 📌 JoinUS
 
-Aplicativo simples para gerenciamento de participantes em um evento, desenvolvido com **React Native**.
+Aplicativo simples proposto pela **RocketSeat** para gerenciamento de participantes em um evento, desenvolvido com **React Native**.
 
 ## 📸 Demonstração
 
