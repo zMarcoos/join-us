@@ -4,7 +4,7 @@ Aplicativo simples proposto pela **RocketSeat** para gerenciamento de participan
 
 ## 📸 Demonstração
 
-> Em breve...
+> ![image](https://github.com/user-attachments/assets/62b6fc8d-26b5-4800-ab19-7e591cfbf31d)
 
 ## 🚀 Tecnologias Utilizadas
 
